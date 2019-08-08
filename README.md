@@ -1,2 +1,0 @@
-# CardList
-Created with CodeSandbox
